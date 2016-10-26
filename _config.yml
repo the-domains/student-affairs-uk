@@ -1,4 +1,3 @@
-layout_spectrum: 0.3879266471779066
 typography_spectrum: 0.6030413037488734
 color:
   brandStrength: 0.49040078127876585
@@ -12,6 +11,9 @@ color:
     - '#3498DB'
     - '#2980B9'
 github: true
+layout_spectrum: 0.3879266471779066
+analytics:
+  google: UA-83531459-1
 author:
   name: Jonathan Dempsey
   email: jonathan.a.dempsey@gmail.com
