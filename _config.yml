@@ -28,3 +28,7 @@ navigation:
 title: Student Affairs UK
 content: []
 description: My corner of the internet to talk all things  student affairs
+purpose:
+  - type: external
+    url: twitter.com/intent/tweet?text=%40JD_in_HE
+    label: Tweet me!
