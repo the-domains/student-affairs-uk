@@ -1,9 +1,10 @@
-typography_spectrum: 0.8046369203366339
+layout_spectrum: 0.3879266471779066
+typography_spectrum: 0.6030413037488734
 color:
-  brandStrength: 0.4933141751680523
-  lightness: 0.44545618165284395
-  saturation: 0.5961370281875134
-  rhythmicContrast: 0.3531348293181509
+  brandStrength: 0.49040078127876585
+  lightness: 0.443313958972213
+  saturation: 0.5958501413493131
+  rhythmicContrast: 0.3523066399153322
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
@@ -11,7 +12,6 @@ color:
     - '#3498DB'
     - '#2980B9'
 github: true
-layout_spectrum: 0.2840648021083325
 author:
   name: Jonathan Dempsey
   email: jonathan.a.dempsey@gmail.com
