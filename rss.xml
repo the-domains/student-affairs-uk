@@ -4,9 +4,9 @@
         <description><![CDATA[Student Affairs UK]]></description>
         <link>http://studentaffairs.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 26 Oct 2016 08:05:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Oct 2016 08:05:35 GMT</lastBuildDate>
         <atom:link href="http://studentaffairs.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Oct 2016 08:05:12 GMT</pubDate>
+        <pubDate>Wed, 26 Oct 2016 08:05:19 GMT</pubDate>
         <item>
             <title><![CDATA[Hello, world]]></title>
             <description><![CDATA[<article><h1>Hello, world</h1><p>Welcome to my blog about all things Higher Education.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/46c40eb7-4daf-4518-8593-ad3bac8bba74.gif"></article>]]></description>
@@ -20,6 +20,13 @@
             <link>http://studentaffairs.co.uk/the-master-procrastinator/index.html</link>
             <guid isPermaLink="false">99867fdc-d4ad-492a-a79f-0806c7c13a6d</guid>
             <pubDate>Wed, 26 Oct 2016 08:05:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About me, JD]]></title>
+            <description><![CDATA[<article><h1>About me, JD</h1><p>Hello and welcome to my corner of the internet.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4dbbefe-712f-41bd-9e04-fb1d0a303c34.png"></article>]]></description>
+            <link>http://studentaffairs.co.uk/about-me-jd/index.html</link>
+            <guid isPermaLink="false">dbab1904-ffac-446b-bf7b-dac1fc591bb7</guid>
+            <pubDate>Wed, 26 Oct 2016 08:05:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
