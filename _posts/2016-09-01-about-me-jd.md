@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-26T08:05:18.538Z'
+datePublished: '2016-10-26T08:06:26.354Z'
 sourcePath: _posts/2016-09-01-about-me-jd.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-26T08:05:17.792Z'
+dateModified: '2016-10-26T08:06:23.969Z'
 title: 'About me, JD'
 publisher: {}
 description: Hello and welcome to my corner of the internet.
