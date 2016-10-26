@@ -17,12 +17,12 @@ author:
   email: jonathan.a.dempsey@gmail.com
 name: Student Affairs UK
 navigation:
-  - name: 'About me, JD'
-    id: dbab1904-ffac-446b-bf7b-dac1fc591bb7
-    type: content
   - name: Home
     url: 'http://studentaffairs.co.uk/'
     type: external
+  - name: 'About me, JD'
+    id: dbab1904-ffac-446b-bf7b-dac1fc591bb7
+    type: content
 title: Student Affairs UK
 content: []
 description: ''
