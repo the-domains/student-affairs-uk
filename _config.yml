@@ -1,0 +1,21 @@
+typography_spectrum: 0.8046369203366339
+color:
+  brandStrength: 0.4933141751680523
+  lightness: 0.44545618165284395
+  saturation: 0.5961370281875134
+  rhythmicContrast: 0.3531348293181509
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+github: true
+layout_spectrum: 0.2840648021083325
+author:
+  name: Jonathan Dempsey
+  email: jonathan.a.dempsey@gmail.com
+name: Student Affairs UK
+title: Student Affairs UK
+content: []
+description: ''
