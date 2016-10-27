@@ -1,7 +1,7 @@
 ---
 title: The Master Procrastinator
-datePublished: '2016-10-27T18:53:30.372Z'
-dateModified: '2016-10-27T18:53:11.183Z'
+datePublished: '2016-10-27T19:11:07.044Z'
+dateModified: '2016-10-27T19:11:05.878Z'
 publisher: {}
 author: []
 inFeed: true
@@ -14,8 +14,8 @@ description: >-
   that students aren’t resilient enough but what does a resilient student look
   like?
 via: {}
-starred: true
 sourcePath: _posts/2016-09-06-master-procrastinator.md
+starred: true
 url: the-master-procrastinator/index.html
 _type: Article
 
