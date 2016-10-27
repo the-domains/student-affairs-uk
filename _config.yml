@@ -32,6 +32,6 @@ purpose:
   - type: external
     url: twitter.com/intent/tweet?text=%40JD_in_HE
     label: Tweet me!
-  - type: internal
+  - type: email
     label: Contact me
-    item: df1353a8-9662-47ed-847f-b09850a433fd
+    url: 'mailto:jonathan.a.dempsey@gmail.com'
