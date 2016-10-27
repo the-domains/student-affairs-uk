@@ -1,13 +1,11 @@
 ---
-datePublished: '2016-10-27T13:56:42.880Z'
-sourcePath: _posts/2016-09-06-master-procrastinator.md
+title: The Master Procrastinator
+datePublished: '2016-10-27T18:53:30.372Z'
+dateModified: '2016-10-27T18:53:11.183Z'
+publisher: {}
+author: []
 inFeed: true
 hasPage: true
-author: []
-via: {}
-dateModified: '2016-10-27T13:56:42.241Z'
-title: The Master Procrastinator
-publisher: {}
 description: >-
   The new academic year is underway and many headlines about students are about
   their mental health and rightly so. It is severely under-funded and probably
@@ -15,7 +13,9 @@ description: >-
   to succeed whilst under pressures of money, home, life etc… Often it is said
   that students aren’t resilient enough but what does a resilient student look
   like?
+via: {}
 starred: true
+sourcePath: _posts/2016-09-06-master-procrastinator.md
 url: the-master-procrastinator/index.html
 _type: Article
 
@@ -114,9 +114,9 @@ This is what ACT hopes to help with, moving from a goals/solution focused to bei
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FT-lRbuy4XtA%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DT-lRbuy4XtA&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FT-lRbuy4XtA%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-I could probably go on even further about ACT but an example, in a university context, may be more useful and make this post just about readable in a lunch break.
+ACT has a lot of lots therapies based around mindfulness and I could probably go on even further about these but an example, in a university context, may be more useful and make this post just about readable in a lunch break.
 
-[Exeter Uni][12] have a [program][13] based upon the work by Australian Uni [RMIT][14] and their audio e-learning program called [6 ACT Conversations][15].  
+[Exeter Uni][12] have an ACT based [program][13] based upon the work by Australian Uni [RMIT][14] and their audio e-learning program called [6 ACT Conversations][15].  
 Exeter's programs aims to support students with the following:
 
 * Overcoming procrastination and completing study tasks
