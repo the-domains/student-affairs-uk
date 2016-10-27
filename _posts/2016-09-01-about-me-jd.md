@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-27T11:37:24.001Z'
+datePublished: '2016-10-27T11:45:50.432Z'
 sourcePath: _posts/2016-09-01-about-me-jd.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-27T11:37:22.948Z'
+dateModified: '2016-10-27T11:45:49.624Z'
 title: 'About me, JD'
 publisher: {}
 description: Hello and welcome to my corner of the internet.
@@ -32,8 +32,6 @@ If you would like to know more you can ...
 
 ...Get in touch
 [Tweet me][4]
-
-Email - jonathan.a.dempsey@gmail.com
 
 _As is standard in these things, everything I write here is all personal opinion and has nothing to do with those employing me etc..._
 
