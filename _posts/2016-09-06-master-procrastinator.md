@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-27T11:27:08.804Z'
+datePublished: '2016-10-27T13:56:42.880Z'
 sourcePath: _posts/2016-09-06-master-procrastinator.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-27T11:27:08.217Z'
+dateModified: '2016-10-27T13:56:42.241Z'
 title: The Master Procrastinator
 publisher: {}
 description: >-
@@ -126,7 +126,7 @@ Exeter's programs aims to support students with the following:
 
 These aims all flow back in to Unite's report and also what we, as student affairs professionals, want for our students.
 
-So to finally bring my first post to a close I would like to say that all of the above is just one of the tools I think we should using to help students achieve their values. Along with our students, we should acknowledge uni and life can be tough at times and 
+So to finally bring my first post to a close I would like to say that all of the above is just one of the tools I think we should using to help students achieve their values. Along with our students, we should acknowledge uni and life can be tough at times and
 
 ### References
 
