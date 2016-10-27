@@ -1,21 +1,21 @@
 ---
 title: The Master Procrastinator
-datePublished: '2016-10-27T19:11:07.044Z'
-dateModified: '2016-10-27T19:11:05.878Z'
+datePublished: '2016-10-27T20:51:16.119Z'
+dateModified: '2016-10-27T20:50:18.532Z'
 publisher: {}
 author: []
 inFeed: true
 hasPage: true
 description: >-
   The new academic year is underway and many headlines about students are about
-  their mental health and rightly so. It is severely under-funded and probably
-  not robust enough for students - there is a lot of pressure on them these days
-  to succeed whilst under pressures of money, home, life etc… Often it is said
-  that students aren’t resilient enough but what does a resilient student look
-  like?
+  their mental health and rightly so. Mental health in HE is severely
+  under-funded and probably not robust enough for students - there is a lot of
+  pressure on them these days to succeed whilst under pressures of money, home,
+  life etc… Often it is said that students aren’t resilient enough but what does
+  a resilient student look like?
 via: {}
-sourcePath: _posts/2016-09-06-master-procrastinator.md
 starred: true
+sourcePath: _posts/2016-09-06-master-procrastinator.md
 url: the-master-procrastinator/index.html
 _type: Article
 
@@ -24,7 +24,7 @@ _type: Article
 
 # The Master Procrastinator
 
-The new academic year is underway and many headlines about students are about their mental health and rightly so. It is severely under-funded and probably not robust enough for students - there is a lot of pressure on them these days to succeed whilst under pressures of money, home, life etc...   
+The new academic year is underway and many headlines about students are about their mental health and rightly so. Mental health in HE is severely under-funded and probably not robust enough for students - there is a lot of pressure on them these days to succeed whilst under pressures of money, home, life etc...   
 Often it is said that students aren't _resilient _enough but what does a resilient student look like?
 
 My blog is aimed at looking at many things that make up student affairs in the UK and currently mental health is one of the major talking points. There has been lots of media ([A][0], [B][1], [C][2] and many more) n student mental health, and the relatively recent launch of [Unite's][3] annual Insight Report titled [Student Resilience][4] and how it links with student retention rates. This got me thinking about the whole idea of what we expect resiliency to look like.
@@ -95,7 +95,7 @@ These are very much like the issues raised in the Unite Insight report around [r
 
 For many students maintaining good balance between in their personal and academic lives can be difficult. Completing assignments and preparing for exams can stir up difficult thoughts and feelings such as "am I smart enough?"; "what if I fail?".  
 Procrastination can serve to, in the short term, avoid these feelings but may ultimately increase them in the long run.  
-Students not only want a good academic life but also personal life the values of both can often compete with each other but when the former value may suffer and procrastination may be the result .
+Students want both a good academic life and personal life. Both of these values can often compete with each other. When the former takes precedence over the latter this may lead to procrastination.
 
 Procrastinators may well be seen as psychologically _inflexible _(ibid), and be less likely to seek support, much like those students from the insight report that have lower levels of retention.
 
@@ -103,14 +103,14 @@ Now, often at universities the solution to procrastination comes in the form of 
 
 Indeed that deal The Open University says to make with yourself is pretty much a perfect example of the above definition of procrastination and furthermore does not provide students with strategies to deal with the difficult thoughts and feelings that come with procrastination.
 
-### So how can we support students to become more (psychologically) flexible?
+### So how can we support students to become more psychologically flexible?
 
 Earlier in this piece I mentioned ACT - Acceptance and Commitment Therapy - when defining psychological flexibility and seeing as that's where it came from it may well be useful to look at how ACT can help out.
 
-ACT is very much about being open about to an experience no matter how difficult it is and starting a new journey at university can be very difficult, as Unite's report shows. (A good non-technical overview of ACT can be found [here][11])  
+ACT is very much about being open to an experience no matter how difficult it is and starting a new journey at university can be very difficult, as Unite's report shows. (A good non-technical overview of ACT can be found [here][11])  
 ACT is not about trying to get rid of an issue (and yes I know we in student affairs often like to be problem solvers) but helping a person to avoid less the issues they are having. This could very well be putting off (or procrastinating) seeking help or even just wanting a solution to their problem.   
 How often have you had students return to you with the same issue over and over again. Every time you have solved their problem they have "bounced back" but the issue never actually seems to be dealt with.   
-This is what ACT hopes to help with, moving from a goals/solution focused to being values focused.
+This is what ACT hopes to help with, moving from being focused on solving problems to being focused on opening up to challenges and moving toward values.
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FT-lRbuy4XtA%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DT-lRbuy4XtA&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FT-lRbuy4XtA%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
