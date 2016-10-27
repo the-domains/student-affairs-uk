@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-26T10:54:17.664Z'
+datePublished: '2016-10-27T11:29:05.927Z'
 sourcePath: _posts/2016-09-01-about-me-jd.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-26T10:54:17.115Z'
+dateModified: '2016-10-27T11:29:05.273Z'
 title: 'About me, JD'
 publisher: {}
 description: Hello and welcome to my corner of the internet.
@@ -35,6 +35,8 @@ If you would like to know more you can ...
 [LinkedIn][5]
 
 Email - jonathan.a.dempsey@gmail.com
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyFU9FumzAUfecrrrIHSNbg94ZmosFpPYGJDFnVp8rBTvFGgGGTqlr77zOlaSt10hBC-N7jc-49vg6EOoISFxOh9O9e35myk1xMlgGyiaUT6KJTrVk6DprNnBkAw6s0STCNcASrlK7J1ZaFOUkp_AgZCS9jnJ0DjkgOIY1gS0d0Dvk1hgyvXpCXOE5vIE-B0AyzHKJbGiZkZRniLc5gzdIEbtMtg00c5uuUJZAyWCWZPxQQ45BRuLm-hQivCSX0auDO8Ls-EPsmm5TlIc3PoTSm1ecIjQ36RXNAXBxUjfpaHWWneVU0QqIvRVPv1X3fcaOaen7kneK7SuoZsq07dgmvDo04uIB9XxcDFrwp_HFMqbTf8nvp911ls5vwCt9tWbwAQAiYbCteyLcoPChTwmPTdzDscTUUvG5qVfAKhvRJ_gOtErI2aq9kd2InkXWWrAlmi08a77nPUrbx372ED4Rvcs8LxzbsnVobOhuoo5S6-Xisr4d3bU2OCcWjM7Yi0RT9wRKegR5WfmHnyEhcySHoueMcudOFo33dFRbiIqRNP9TA93uuOj0vmnn_y_9wTvKwk8L_qd2XXdKExnRq1xvpuYIbPjfqILXhh9Y9g6-1fIDISnpTK-IJv7RzDE9PtpRdIx6nPm9bWYtVqSrhaQt5nnr2G6DThAd18_q7qSTXEmQ9WALf-ZFnLwkwDRyVlTGlhICDvSr7i8k_5uubTdyd6CZLGxpM0NA2D7KTAnaPEI3oAHF71d6UHfjP8xfZoSks" height="244" style=""></iframe>
 
 _As is standard in these things, everything I write here is all personal opinion and has nothing to do with those employing me etc..._
 
