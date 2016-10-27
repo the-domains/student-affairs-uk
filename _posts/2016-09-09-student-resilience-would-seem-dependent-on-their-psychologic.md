@@ -13,7 +13,7 @@ keywords:
   - workingwithact
   - what-is-act
 title: ''
-dateModified: '2016-10-26T10:48:16.979Z'
+dateModified: '2016-10-27T19:11:05.878Z'
 publisher:
   name: Twitter
   domain: twitter.com
@@ -50,7 +50,7 @@ description: >-
   Student resilience would seem dependent on their psychological flexibility
   https://t.co/mrtK3JaGBE #UniteInsight
 via: {}
-datePublished: '2016-10-27T15:07:32.796Z'
+datePublished: '2016-10-27T19:11:06.689Z'
 sourcePath: >-
   _posts/2016-09-09-student-resilience-would-seem-dependent-on-their-psychologic.md
 starred: false
