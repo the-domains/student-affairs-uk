@@ -4,9 +4,9 @@
         <description><![CDATA[Student Affairs UK]]></description>
         <link>http://studentaffairs.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 27 Oct 2016 13:56:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Oct 2016 14:09:22 GMT</lastBuildDate>
         <atom:link href="http://studentaffairs.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 27 Oct 2016 13:56:43 GMT</pubDate>
+        <pubDate>Thu, 27 Oct 2016 14:08:28 GMT</pubDate>
         <item>
             <title><![CDATA[Hello, world]]></title>
             <description><![CDATA[<article><h1>Hello, world</h1><p>Hello, I’m JD and welcome to my blog about all things Student Affairs in HE.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/46c40eb7-4daf-4518-8593-ad3bac8bba74.gif"></article>]]></description>
@@ -20,6 +20,13 @@
             <link>http://studentaffairs.co.uk/the-master-procrastinator/index.html</link>
             <guid isPermaLink="false">99867fdc-d4ad-492a-a79f-0806c7c13a6d</guid>
             <pubDate>Thu, 27 Oct 2016 13:56:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contact me]]></title>
+            <description><![CDATA[<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9j8sKwjAURH-lZG_SCrVRjOLCqqWIUlR0I7W5TaPGlCQ-Pt_6XJ5hZpjpy9LkCjxrCoYq52rbI4TrwmKhtTgDLrQipTbKEk6ABPFoVi_TDILdKRyXeZxQu1h1qbbRfPloZTSJ9vQYRNtJOF2P40Bt0l3cpiNyk3B_1QxBHYBz4MyZKyDvLrmrGIo6PvIqkKJyDIV-A-9ZB204GIYaVrkR8vKz_IVv3keDVOdcXgTGuE8-pwZP0nRIwQ" height="244"></iframe>]]></description>
+            <link>https://the-grid.github.io/ed-userhtml/?g=eJw9j8sKwjAURH-lZG_SCrVRjOLCqqWIUlR0I7W5TaPGlCQ-Pt_6XJ5hZpjpy9LkCjxrCoYq52rbI4TrwmKhtTgDLrQipTbKEk6ABPFoVi_TDILdKRyXeZxQu1h1qbbRfPloZTSJ9vQYRNtJOF2P40Bt0l3cpiNyk3B_1QxBHYBz4MyZKyDvLrmrGIo6PvIqkKJyDIV-A-9ZB204GIYaVrkR8vKz_IVv3keDVOdcXgTGuE8-pwZP0nRIwQ</link>
+            <guid isPermaLink="false">df1353a8-9662-47ed-847f-b09850a433fd</guid>
+            <pubDate>Thu, 27 Oct 2016 14:08:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
