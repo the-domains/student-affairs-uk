@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-10-27T14:08:53.816Z'
+datePublished: '2016-10-27T14:11:54.855Z'
+sourcePath: _posts/2016-10-27-contact-me.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-27T14:08:53.186Z'
+dateModified: '2016-10-27T14:11:54.135Z'
 title: Contact me
 publisher: {}
 description: ''
-sourcePath: _posts/2016-10-27-contact-me.md
-hasPage: true
 starred: false
 url: contact-me/index.html
 _type: Article
