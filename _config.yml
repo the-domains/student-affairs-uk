@@ -34,8 +34,8 @@ content: []
 description: My corner of the internet to talk all things student affairs
 purpose:
   - type: external
-    url: twitter.com/intent/tweet?text=%40JD_in_HE
-    label: Tweet me!
+    url: 'https://goo.gl/oGuKdF'
+    label: Tweet me
   - type: email
     label: Contact me
     url: 'mailto:jonathan.a.dempsey@gmail.com'
