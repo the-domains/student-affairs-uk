@@ -1,14 +1,8 @@
 ---
-author:
-  - name: Higher Ed Live
-    url: 'https://www.youtube.com/user/higheredlive'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+datePublished: '2016-10-28T08:39:37.211Z'
+sourcePath: _posts/2016-10-28-emotional-intelligence-in-leadership-and-social-justice.md
+inFeed: true
+isBasedOnUrl: 'https://www.youtube.com/watch?v=JjVx-leEzAE'
 keywords:
   - duration
   - views
@@ -20,13 +14,14 @@ keywords:
   - affairs
   - goleman
   - student
-description: >-
-  What are the signs of an emotionally intelligent leader? How is emotional
-  intelligence central to our effectiveness in student affairs leadership
-  broadly and in social justice education specifically? What are the critical
-  components of emotionally intelligent leadership that preparation programs and
-  professional development for student affairs should address?
-inLanguage: en
+related: []
+author:
+  - name: Higher Ed Live
+    url: 'http://higheredlive.com/'
+    avatar: {}
+via: {}
+dateModified: '2016-10-28T08:39:36.700Z'
+title: Emotional Intelligence in Leadership & Social Justice
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=JjVx-leEzAE&feature=applinks'
     type: ios
@@ -64,16 +59,21 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=JjVx-leEzAE'
-title: Emotional Intelligence in Leadership & Social Justice
-datePublished: '2016-10-28T08:38:32.486Z'
-dateModified: '2016-10-28T08:38:22.500Z'
-via: {}
-inFeed: true
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.youtube.com
+description: >-
+  What are the signs of an emotionally intelligent leader? How is emotional
+  intelligence central to our effectiveness in student affairs leadership
+  broadly and in social justice education specifically? What are the critical
+  components of emotionally intelligent leadership that preparation programs and
+  professional development for student affairs should address?
+inLanguage: en
 starred: false
-sourcePath: _posts/2016-10-28-emotional-intelligence-in-leadership-and-social-justice.md
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJjVx-leEzAE%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJjVx-leEzAE&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJjVx-leEzAE%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
