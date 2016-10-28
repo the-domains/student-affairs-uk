@@ -23,11 +23,11 @@ navigation:
   - name: Home
     url: 'http://studentaffairs.co.uk/'
     type: external
-  - name: 'Hello, world'
-    id: 329d99f3-da1f-4752-b0cf-49d77d197f42
-    type: content
   - name: 'About me, JD'
     id: dbab1904-ffac-446b-bf7b-dac1fc591bb7
+    type: content
+  - name: 'Hello, world'
+    id: 329d99f3-da1f-4752-b0cf-49d77d197f42
     type: content
 title: Student Affairs UK
 content: []
