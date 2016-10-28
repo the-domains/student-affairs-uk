@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-27T19:11:06.356Z'
+datePublished: '2016-10-28T08:43:29.349Z'
 sourcePath: _posts/2016-09-02-hello-world.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-27T19:11:05.878Z'
+dateModified: '2016-10-28T08:43:28.899Z'
 title: 'Hello, world'
 publisher: {}
 description: 'Hello, I’m JD and welcome to my blog about all things Student Affairs in HE.'
@@ -21,8 +21,7 @@ Hello, I'm JD and welcome to my blog about all things Student Affairs in HE.
 
 This is my corner of the internet to put down my thoughts and opinions on student affairs/life/services/support in UK higher education_._
 
-Much of what I post will be my own thoughts and opinions but where I can I will add references to journals, articles and so on to back up my ideas (I'm such a good [student][0]!)
-
+Much of what I post will be my own thoughts and opinions but where I can I will add references to journals, articles and so on to back up my ideas (I'm such a good [student][0]!). I'll also be posting links to articles, videos, podcasts etc... that I think are quite interesting, add to any of my posts or link to student affairs.  
 There may also be a gratuitous use of GIFs in my posts, but that's because when you run out of things to say or you can't explain your frustration with something (_\*cough\*_ TEF _\*cough\*_) a GIF of a grumpy cat will have to do.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9efa54b2-f74e-4787-8c83-cf5fb1695687.gif)
 
