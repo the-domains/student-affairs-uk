@@ -1,20 +1,20 @@
 ---
-datePublished: '2016-10-28T08:59:54.783Z'
+datePublished: '2016-10-30T17:06:19.626Z'
 sourcePath: _posts/2016-09-06-master-procrastinator.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-28T08:59:54.468Z'
+dateModified: '2016-10-30T17:06:18.874Z'
 title: The Master Procrastinator
 publisher: {}
 description: >-
   The new academic year is underway and many headlines about students are about
   their mental health and rightly so. Mental health in HE is severely
-  under-funded and probably not robust enough for the increasing number of
-  students - there is a lot of pressure these days to succeed whilst under
-  pressures of money, home, life etc… Often it is said that students aren’t
-  resilient enough but what does a resilient student look like?
+  under-funded and our resources probably not robust enough for the increasing
+  number of students in need.  There is a lot of pressure these days to succeed
+  whilst under pressures of money, home, life etc… Often it is said that
+  students aren’t resilient enough but what does a resilient student look like?
 starred: true
 url: the-master-procrastinator/index.html
 _type: Article
@@ -24,7 +24,7 @@ _type: Article
 
 # The Master Procrastinator
 
-The new academic year is underway and many headlines about students are about their mental health and rightly so. Mental health in HE is severely under-funded and probably not robust enough for the increasing number of students - there is a lot of pressure these days to succeed whilst under pressures of money, home, life etc...   
+The new academic year is underway and many headlines about students are about their mental health and rightly so. Mental health in HE is severely under-funded and our resources probably not robust enough for the increasing number of students in need. There is a lot of pressure these days to succeed whilst under pressures of money, home, life etc...   
 Often it is said that students aren't _resilient _enough but what does a resilient student look like?
 
 My blog is aimed at looking at many things that make up student affairs in the UK and currently mental health is one of the major talking points. There has been lots of media ([A][0], [B][1], [C][2] and many more) on student mental health, and the relatively recent launch of [Unite's][3] annual Insight Report titled [Student Resilience][4] touches on this and how it links with student retention rates. This got me thinking about the whole idea of what we expect a resilient student to look like.
@@ -43,7 +43,7 @@ An [article][5] on the Guardian website's [Higher Education Network][6] discusse
 
 The question I want to raise though is - _is resilience the concept we want to use?_
 
-It's often talked about in universities, our students need to be more resilient.   
+It's often talked about in universities, that our students need to be more resilient.   
 Whether that is with regards to their grades, challenging lectures, growing debt amongst many other issues students have to deal with.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33675dfb-a028-4aaf-9dc6-46e609cd08f3.gif)
 
@@ -51,8 +51,7 @@ Psychologically speaking, resilience is actually a poorly defined concept which 
 
 ### Psychological Flexibility
 
-I would like to suggest a term that may not be recognisable to many outside of psychology - _psychological flexibility_.  
-Indeed this term wasn't familiar to me, but you quickly learn lots of new things when your partner is a health psychology post doc and needs a guinea pig for practicing her presentations on.
+I would like to suggest a term that may not be recognisable to many outside of psychology - _psychological flexibility_. Indeed, this term wasn't familiar to me, but you quickly learn lots of new things when your partner is a health psychology post doc and needs a guinea pig for practicing her presentations on.
 
 The idea of psychological flexibility comes from a form of _[CBT][7]_ known as _ACT _(Acceptance and Commitment Therapy) and can be defined as the degree to which a person:
 
@@ -60,7 +59,7 @@ The idea of psychological flexibility comes from a form of _[CBT][7]_ known as _
 2. Approaches difficult thoughts, feelings, and even physical sensations with a sense of openness and compassion.
 3. Adopts a perspective of mindfully focusing on the present moment.
 4. Connects with their values--the things that truly matter to them in life.
-5. Balances competing desires, needs, and life domains.
+5. Pursues valued goals by balancing competing desires, needs, and life domains.
 
 ### So, in a nutshell, what does it mean to be "psychologically flexible"?
 
@@ -73,7 +72,7 @@ The idea of psychological flexibility is not new and has been used in health and
 Importantly, the qualities of psychological flexibility may be useful for understanding how people manage the challenges of student life, including:
 
 1. Grappling with challenging new academic material and meeting deadlines.
-2. Adapting to the transition to adulthood, including managing finances, eating healthily, living with flatmates, new relationships.
+2. Adapting to the transition to adulthood, including managing finances, eating healthily, living with flatmates, and fostering new relationships.
 3. Identifying and potentially committing to a career path
 4. Finding balance between all of the above.
 
@@ -91,33 +90,40 @@ Procrastination can be defined as:
 
 (2, 3, 4 )
 
-There is a strong link between procrastination and _academic performance_, _retention _and _negative emotions_ such as stress, lower self-esteem, interpersonal conflicts and even an increase in the risk of health problems as shown in a recent article by Gagnon, Dionne and Pychyl (5).  
-These are very much like the issues raised in the Unite Insight report around [retention ][8]and [life satisfaction][9].
+There is a strong link between procrastination and _academic performance_, _retention _and _negative emotions_ such as stress, lower self-esteem, interpersonal conflicts and even an increase in the risk of health problems as shown in a recent article by Gagnon, Dionne and Pychyl (5). These are very much like the issues raised in the Unite Insight report around [retention ][8]and [life satisfaction][9].
 
-For many students maintaining good balance between their personal and academic lives can be difficult. Completing assignments and preparing for exams can stir up difficult thoughts and feelings such as "am I smart enough?"; "what if I fail?".  
-Procrastination can serve to, in the short term, avoid these feelings but may ultimately increase them in the long run.  
-Students want both a good academic life and personal life. Both of these values can often compete with each other. When the former takes precedence over the latter this may lead to procrastination.
+For many students maintaining good balance between their personal and academic lives can be difficult. Completing assignments and preparing for exams can stir up difficult thoughts and feelings such as "am I smart enough?" and "what if I fail?". In the short term, procrastination can serve to avoid these thoughts and feelings, but may ultimately increase them in the long run. Additionally, students want both a good academic life and personal life and these values can often compete with each other. When the former takes precedence over the latter this may lead to procrastination.
 
-Procrastinators may well be seen as psychologically _inflexible _(ibid), and be less likely to seek support, much like those students from the insight report that have lower levels of retention.
+Procrastinators may well be seen as behaving in a psychologically _inflexible _(ibid) way, and may be less likely to seek support---much like those students from the insight report that have lower levels of retention.
 
-Now, often at universities the solution to procrastination comes in the form of time management strategies similar to these [Open University's tips][10] of setting time-based goals, making deals with yourself - "_Okay, I'll go to the pub with my friend tonight, but this means that I'll need to get up early on Sunday to study instead " - _but there is little evidence that strategies like this decrease procrastination (6).
+Now, often at universities the solution to procrastination comes in the form of time management strategies similar to these [Open University's tips][10] of setting time-based goals, and making deals with yourself, such as saying- "_Okay, I'll go to the pub with my friend tonight, but this means that I'll need to get up early on Sunday to study instead " - _but there is little evidence that strategies like this decrease procrastination (6).
 
-Indeed that deal The Open University says to make with yourself is pretty much a perfect example of the above definition of procrastination and furthermore does not provide students with strategies to deal with the difficult thoughts and feelings that come with procrastination.
+Indeed that deal The Open University says to make with yourself is pretty much a perfect example of the above definition of procrastination. Furthermore, this approach does not provide students with strategies to deal with the difficult thoughts and feelings that come with procrastination.
 
 ### So how can we support students to become more psychologically flexible?
 
-Earlier in this piece I mentioned ACT - Acceptance and Commitment Therapy - when defining psychological flexibility and seeing as that's where it came from it may well be useful to look at how ACT can help out. (A good non-technical overview of ACT can be found [here][11])
+Earlier in this piece I mentioned ACT - Acceptance and Commitment Therapy - when defining psychological flexibility, so it may well be useful to look at how ACT can help out to foster psychological flexibility in our students (a good non-technical overview of ACT can be found [here][11]). ACT is about helping people to behave in ways that are "**open, aware, **and**engaged**". You don't need a formal course of therapy to put these skills into practice. Some quick exercises include:
 
-ACT is very much about being open to an experience no matter how difficult it is and starting a new journey at university can be very difficult, as Unite's report shows.   
-ACT is not about trying to get rid of an issue (and yes I know we in student affairs often like to be problem solvers) but helping a person to avoid less the issues they are having. This could very well be putting off (or procrastinating) seeking help or even just wanting a solution to their problem without actually dealing . \*\*\*  
-How often have you had students return to you with the same issue over and over again. Every time you have solved their problem they have "bounced back" but the issue never actually seems to be dealt with.   
-This is what ACT hopes to help with, moving from being focused on solving problems to being focused on opening up to challenges and moving toward values.
+-**Labeling thoughts (building openness)**: Notice a thought you've been struggling with, or that often shows up when you feel overwhelmed. This might be something like, 'I have way too much school work, I'll never get it done'. Now, do the following: 
+
+1. Distill the thought to just a few words. So, for the above thought, something like, 'too much to do'. 
+2. Now, put the thought inside the phrase, '_I'm having the thought that_...there's too much to do'. 
+3. Now, phrase the thought inside the phrase, '_I'm noticing I'm having the thought that_...there's too much to do'. 
+4. Get in touch with the experience of steps 1-3\. What was it like to experience this thought in 3 different ways?
+
+-**Notice 5 things (building awareness)**: Pause. Take a few deep breaths, and do the following:
+
+1. Notice 5 things you see in the room around you.
+2. Notice 5 things you hear.
+3. Notice 5 sensations you feel on the surface of your body.
+
+-**Imagine your 60th birthday (building engagement):** Take a few moments to bring to your mind what your 60th birthday party might be like. Close your eyes if you wish. What do you see, smell, and hear at your party? Who is at your party? As the 60 year old you reflects on your life, what do they wish they spent less time worrying about? What do they wish you would have done differently? Doing this exercise can give you an idea about your values. You can then make **SMART** goals (specific, measurable, attainable, realistic, and time-bound) to move you in the direction of your values. Check out the video below for an easy to digest description of the difference between values and goals.
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FT-lRbuy4XtA%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DT-lRbuy4XtA&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FT-lRbuy4XtA%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-ACT has a lot of lots therapies based around mindfulness and I could probably go on even further about these but an example, in a university context, may be more useful and make this post just about readable in a lunch break.
+To summarize, ACT is not about trying to get rid of problems (and yes I know we in student affairs often like to be problem solvers). Instead ACT helps a person face the issues they are having with kindness, moving from being focused on solving problems to being focused on opening up to challenges and moving toward values.
 
-[Exeter Uni][12] have an ACT based [program][13] based upon the work by Australian Uni [RMIT][14] and their audio e-learning program called [6 ACT Conversations][15].  
+[Exeter Uni][12] has an ACT based [program][13] based upon the work by Australian Uni [RMIT][14] and their audio e-learning program called [6 ACT Conversations][15].  
 Exeter's programs aims to support students with the following:
 
 * Overcoming procrastination and completing study tasks
@@ -125,9 +131,9 @@ Exeter's programs aims to support students with the following:
 * Discovering your valued and meaningful life while studying at University
 * Living a balanced and enjoyable life
 
-These aims all flow back in to Unite's report and also what we, as student affairs professionals, want for our students.
+These aims all flow back in to the themes of Unite's report and what we, as student affairs professionals, want for our students.
 
-So to finally bring my first post to a close I would like to say that all of the above is just one of the tools I think we should using to help students achieve their values. Along with our students, we should acknowledge uni and life can be tough at times and
+So to bring my first post to a close, I would like to say that the above are just a few tools I think we could be using to help students achieve their goals. Along with our students, we should acknowledge uni and adult life can be tough at times and that this is completely normal. Rather than fighting or avoiding these difficulties, we can be open about these with our students, help our students to face these challenges with compassion, and help them to continue to pursue goals that are important to them in their studies and life.
 
 ### References
 
