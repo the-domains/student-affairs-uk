@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-31T10:52:02.061Z'
+datePublished: '2016-10-31T10:54:43.425Z'
 sourcePath: _posts/2016-09-01-about-me-jd.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-31T10:52:01.448Z'
+dateModified: '2016-10-31T10:54:42.857Z'
 title: 'About me, JD'
 publisher: {}
 description: Hello and welcome to my corner of the internet.
@@ -39,4 +39,4 @@ _As is standard in these things, everything I write here is all personal opinion
 [1]: http://healtcare.ac.uk/
 [2]: http://www.sgul.ac.uk/ "St George's, University of London"
 [3]: http://www.kingston.ac.uk/postgraduate-course/research-and-practice-in-higher-education-ma/ "Info about the course"
-[4]: https://goo.gl/oGuKdF
+[4]: https://goo.gl/AXGerg
