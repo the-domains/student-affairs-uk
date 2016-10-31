@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-28T08:56:26.747Z'
+datePublished: '2016-10-31T10:54:16.593Z'
 sourcePath: _posts/2016-09-02-hello-world.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-28T08:56:26.042Z'
+dateModified: '2016-10-31T10:54:15.929Z'
 title: 'Hello, world'
 publisher: {}
 description: 'Hello, I’m JD and welcome to my blog about all things Student Affairs in HE.'
@@ -31,4 +31,4 @@ Also it's a new site it will no doubt change in look and feel over the next few 
 JD
 
 [0]: http://studentaffairs.co.uk/about-me-jd "About me, JD"
-[1]: https://twitter.com/intent/tweet?text=%40JD_in_HE "tweet me!"
+[1]: https://goo.gl/AXGerg "Tweet me @JD_in_HE"
