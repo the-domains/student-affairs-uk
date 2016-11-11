@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-11T16:28:30.884Z'
+datePublished: '2016-11-11T16:30:44.780Z'
 sourcePath: _posts/2016-11-11-is-empathy-enough.md
 inFeed: true
 hasPage: true
@@ -8,7 +8,7 @@ author:
     url: 'https://www.youtube.com/user/DorkKnight99'
     avatar: {}
 via: {}
-dateModified: '2016-11-11T16:28:30.380Z'
+dateModified: '2016-11-11T16:30:44.310Z'
 title: Is empathy enough?
 publisher: {}
 description: >-
@@ -34,8 +34,6 @@ Now here's my question to myself:
 > Should I even be researching this topic?
 
 I ask this because I'm a cisgendered, white heterosexual male who has, relatively, had an easy life. I've never been discriminated against because of my colour, my gender or my sexuality. In the grand scheme of things I have it pretty damn good.
-
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F87LGmm1M5Is%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D87LGmm1M5Is&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F87LGmm1M5Is%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 ## Am I the right person to research this topic?
 
