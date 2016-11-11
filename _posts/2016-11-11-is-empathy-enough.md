@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-11-11T16:21:08.666Z'
+datePublished: '2016-11-11T16:22:08.584Z'
+sourcePath: _posts/2016-11-11-is-empathy-enough.md
 inFeed: true
 hasPage: true
 author:
@@ -7,11 +8,14 @@ author:
     url: 'https://www.youtube.com/user/DorkKnight99'
     avatar: {}
 via: {}
-dateModified: '2016-11-11T16:21:08.204Z'
+dateModified: '2016-11-11T16:22:08.201Z'
 title: Is empathy enough?
 publisher: {}
-description: ''
-sourcePath: _posts/2016-11-11-is-empathy-enough.md
+description: >-
+  Over the past year I have embarked on masters in researching higher education
+  and now it comes to the time to think about what my final project will be.I
+  decided to research the experiences of Trans* students within UK HE, mainly
+  their experiences in student accommodation.
 starred: true
 url: is-empathy-enough/index.html
 _context: 'http://schema.org'
@@ -21,13 +25,13 @@ _type: Article
 # Is empathy enough?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/223d8ae6-8d1b-481b-8839-3cec4985b346.gif)
 
----
-
 Over the past year I have embarked on masters in researching higher education and now it comes to the time to think about what my final project will be.  
 I decided to research the experiences of Trans[\*][0] students within UK HE, mainly their experiences in student accommodation.
 
-Now here's my question to myself: 
-> 
+---
+
+Now here's my question to myself:
+
 > Should I even be researching this topic?
 
 I ask this because I'm a cisgendered, white heterosexual male who has, relatively, had an easy life. I've never been discriminated against because of my colour, my gender or my sexuality. In the grand scheme of things I have it pretty damn good.
@@ -41,9 +45,9 @@ Students come to me seeking help and support and I do my best to provide that or
 Research is a little different, students aren't seeking my help I'm seeking them.   
 I'm not a part of the Trans\* community, or even the LGBT community.   
 I may be considered an ally as I have friends, and friends of friends who are part of the communities and I am an advocate of equal and equitable rights for all. If I'm honest though that all feels a little tenuous.  
-I can try and empathise with these communities but I may never truly understand the challenges they face. 
+I can try and empathise with these communities but I may never truly understand the challenges they face.
 
-So why would they want to help me with my research? 
+So why would they want to help me with my research?
 
 Along with empathy there also needs to be a sense of trust. The community that I want to engage with needs to trust why I'm doing this research, that it is not purely for personal gain (this all goes towards me getting my masters) but that I am also adding to the narrative and cause.
 
@@ -53,7 +57,7 @@ Through working on my literature review I can see there is dearth of information
 
 Having this research in a UK context feels very important for me and as highlighted in the NUS's 2014 report "[Education Beyond the Straight and Narrow][2]" University staff need to have a better understanding of Trans\* students and their needs.
 
-That is one of my major goals and is something I value, especially as 
+That is one of my major goals and is something I value, especially as
 
 [0]: http://itspronouncedmetrosexual.com/2012/05/what-does-the-asterisk-in-trans-stand-for/#sthash.IE6KIG6F.dpbs "What does the asterisk in “trans*” stand for?"
 [1]: https://youtu.be/cZMKbFVh2VI
