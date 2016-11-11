@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-31T09:15:12.296Z'
+datePublished: '2016-11-11T16:20:55.689Z'
 sourcePath: _posts/2016-09-06-master-procrastinator.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-31T09:15:09.965Z'
+dateModified: '2016-11-11T16:20:55.084Z'
 title: The Master Procrastinator
 publisher: {}
 description: >-
@@ -15,7 +15,7 @@ description: >-
   number of students in need. There is a lot of pressure these days to succeed
   whilst under pressures of money, home, life etc… Often it is said that
   students aren’t resilient enough but what does a resilient student look like?
-starred: true
+starred: false
 url: the-master-procrastinator/index.html
 _type: Article
 
