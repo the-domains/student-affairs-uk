@@ -1,21 +1,22 @@
 ---
-datePublished: '2016-11-11T16:33:26.242Z'
+datePublished: '2016-11-11T16:34:12.817Z'
+sourcePath: _posts/2016-11-11-should-i-even-be-researching-this-topic.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-11T16:33:22.127Z'
-title: ''
+dateModified: '2016-11-11T16:34:12.510Z'
+title: Is empathy enough?
 publisher: {}
 description: >-
   Over the past year I have embarked on masters in researching higher education
   and now it comes to the time to think about what my final project will be.
-starred: false
-sourcePath: _posts/2016-11-11-should-i-even-be-researching-this-topic.md
+starred: true
 url: should-i-even-be-researching-this-topic/index.html
 _type: Article
 
 ---
+# Is empathy enough?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/46e391b2-23b3-4cf8-978c-26f522f39629.gif)
 
 Over the past year I have embarked on masters in researching higher education and now it comes to the time to think about what my final project will be.
