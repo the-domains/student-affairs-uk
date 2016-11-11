@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-11T16:30:44.780Z'
+datePublished: '2016-11-11T16:36:04.556Z'
 sourcePath: _posts/2016-11-11-is-empathy-enough.md
 inFeed: true
 hasPage: true
@@ -8,13 +8,13 @@ author:
     url: 'https://www.youtube.com/user/DorkKnight99'
     avatar: {}
 via: {}
-dateModified: '2016-11-11T16:30:44.310Z'
+dateModified: '2016-11-11T16:36:04.050Z'
 title: Is empathy enough?
 publisher: {}
 description: >-
   Over the past year I have embarked on masters in researching higher education
   and now it comes to the time to think about what my final project will be.
-starred: true
+starred: false
 url: is-empathy-enough/index.html
 _context: 'http://schema.org'
 _type: Article
