@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-31T10:54:43.425Z'
+datePublished: '2016-11-11T16:39:55.176Z'
 sourcePath: _posts/2016-09-01-about-me-jd.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-31T10:54:42.857Z'
+dateModified: '2016-11-11T16:39:54.720Z'
 title: 'About me, JD'
 publisher: {}
 description: Hello and welcome to my corner of the internet.
@@ -20,6 +20,8 @@ _type: Blurb
 Hello and welcome to my corner of the internet.
 
 You've obviously come to this page to find out who I am, so here's a little taster of little ol' me.
+
+---
 
 I'm a Scouse down south currently working at [Kingston University][0] as a Student Support Officer supporting students in the [Health, Social Care and Education][1] faculty (that's also linked with [St George's][2]).   
 I've been in HE for over 12 years from IT support (yes, switch it off and on again is always the answer) through to living on a site in a halls of residence supporting American study abroad students - mainly the importance of the letter U.
