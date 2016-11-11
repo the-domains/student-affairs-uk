@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-11T16:18:47.239Z'
+datePublished: '2016-11-11T16:20:11.681Z'
 inFeed: true
 hasPage: true
 author:
@@ -7,12 +7,12 @@ author:
     url: 'https://www.youtube.com/user/DorkKnight99'
     avatar: {}
 via: {}
-dateModified: '2016-11-11T16:17:41.451Z'
+dateModified: '2016-11-11T16:20:11.333Z'
 title: Is empathy enough?
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-11-11-is-empathy-enough.md
+starred: false
 url: is-empathy-enough/index.html
 _context: 'http://schema.org'
 _type: Article
