@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-11-11T16:36:47.853Z'
+datePublished: '2016-11-11T16:38:35.225Z'
 sourcePath: _posts/2016-11-11-should-i-even-be-researching-this-topic.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-11T16:36:47.431Z'
-title: Is empathy enough 1?
+dateModified: '2016-11-11T16:38:34.787Z'
+title: Is empathy enough ?
 publisher: {}
 description: >-
   Over the past year I have embarked on masters in researching higher education
@@ -16,7 +16,7 @@ url: should-i-even-be-researching-this-topic/index.html
 _type: Article
 
 ---
-# Is empathy enough 1?
+# Is empathy enough ?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/46e391b2-23b3-4cf8-978c-26f522f39629.gif)
 
 Over the past year I have embarked on masters in researching higher education and now it comes to the time to think about what my final project will be.
@@ -30,6 +30,8 @@ Now here's my question to myself:
 ## _Should I even be researching this topic?_
 
 I ask this because I'm a cisgendered, white heterosexual male who has, relatively, had an easy life. I've never been discriminated against because of my colour, my gender or my sexuality. In the grand scheme of things I have it pretty damn good.
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F87LGmm1M5Is%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D87LGmm1M5Is&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F87LGmm1M5Is%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 ## Am I the right person to research this topic?
 
