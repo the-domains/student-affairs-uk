@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-11T16:25:47.050Z'
+datePublished: '2016-11-11T16:28:30.884Z'
 sourcePath: _posts/2016-11-11-is-empathy-enough.md
 inFeed: true
 hasPage: true
@@ -8,10 +8,12 @@ author:
     url: 'https://www.youtube.com/user/DorkKnight99'
     avatar: {}
 via: {}
-dateModified: '2016-11-11T16:25:46.410Z'
+dateModified: '2016-11-11T16:28:30.380Z'
 title: Is empathy enough?
 publisher: {}
-description: ''
+description: >-
+  Over the past year I have embarked on masters in researching higher education
+  and now it comes to the time to think about what my final project will be.
 starred: true
 url: is-empathy-enough/index.html
 _context: 'http://schema.org'
@@ -21,9 +23,10 @@ _type: Article
 # Is empathy enough?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/223d8ae6-8d1b-481b-8839-3cec4985b346.gif)
 
+Over the past year I have embarked on masters in researching higher education and now it comes to the time to think about what my final project will be.
+
 ---
 
-Over the past year I have embarked on masters in researching higher education and now it comes to the time to think about what my final project will be.  
 I decided to research the experiences of Trans[\*][0] students within UK HE, mainly their experiences in student accommodation.
 
 Now here's my question to myself:
