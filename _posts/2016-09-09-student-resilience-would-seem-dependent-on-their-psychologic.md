@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-18T16:05:47.002Z'
+datePublished: '2016-11-18T16:08:06.076Z'
 sourcePath: >-
   _posts/2016-09-09-student-resilience-would-seem-dependent-on-their-psychologic.md
 inFeed: true
@@ -42,7 +42,7 @@ author:
           - 126
           - 127
 via: {}
-dateModified: '2016-11-18T16:03:12.077Z'
+dateModified: '2016-11-18T16:07:57.733Z'
 title: ''
 publisher:
   name: Twitter
