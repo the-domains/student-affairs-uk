@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-11T16:24:35.784Z'
+datePublished: '2016-11-18T12:09:58.376Z'
 sourcePath: _posts/2016-09-06-master-procrastinator.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-11T16:24:35.601Z'
+dateModified: '2016-11-18T12:09:57.624Z'
 title: The Master Procrastinator
 publisher: {}
 description: >-
@@ -13,8 +13,7 @@ description: >-
   their mental health and rightly so. Mental health in HE is severely
   under-funded and our resources probably not robust enough for the increasing
   number of students in need. There is a lot of pressure these days to succeed
-  whilst under pressures of money, home, life etc… Often it is said that
-  students aren’t resilient enough but what does a resilient student look like?
+  whilst under pressures of money, home, life etc… 
 starred: false
 url: the-master-procrastinator/index.html
 _type: Article
@@ -24,7 +23,10 @@ _type: Article
 
 # The Master Procrastinator
 
-The new academic year is underway and many headlines about students are about their mental health and rightly so. Mental health in HE is severely under-funded and our resources probably not robust enough for the increasing number of students in need. There is a lot of pressure these days to succeed whilst under pressures of money, home, life etc...   
+The new academic year is underway and many headlines about students are about their mental health and rightly so. Mental health in HE is severely under-funded and our resources probably not robust enough for the increasing number of students in need. There is a lot of pressure these days to succeed whilst under pressures of money, home, life etc... 
+
+---
+
 Often it is said that students aren't _resilient _enough but what does a resilient student look like?
 
 My blog is aimed at looking at many things that make up student affairs in the UK and currently mental health is one of the major talking points. There has been lots of media ([A][0], [B][1], [C][2] and many more) on student mental health, and the relatively recent launch of [Unite's][3] annual Insight Report titled [Student Resilience][4] touches on this and how it links with student retention rates. This got me thinking about the whole idea of what we expect a resilient student to look like.
