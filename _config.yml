@@ -1,4 +1,3 @@
-layout_spectrum: 0.052350698863755506
 typography_spectrum: 0.6324871738894963
 color:
   brandStrength: 0.6255088459463366
@@ -11,15 +10,16 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-coverPrefs:
-  filter: false
 github: true
+layout_spectrum: 0.052350698863755506
 analytics:
   google: UA-86416819-1
 author:
   name: Jonathan Dempsey
   email: jonathan.a.dempsey@gmail.com
   url: about-me-jd
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/85d07d8f-a607-4d49-b330-90fabeb3dc23.jpg
 name: Student Affairs UK
 navigation:
   - name: Home
@@ -31,8 +31,12 @@ navigation:
   - name: 'About me, JD'
     id: dbab1904-ffac-446b-bf7b-dac1fc591bb7
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad53765d-f174-4b95-86dd-ad47759e2d12.jpg
 title: Student Affairs UK
 content: []
+coverPrefs:
+  filter: false
 description: My corner of the internet to talk all things student affairs
 purpose:
   - type: external
