@@ -53,8 +53,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/RebseyOH/status/793431072885407744'
-datePublished: '2016-11-18T16:07:15.626Z'
-dateModified: '2016-11-18T16:04:03.280Z'
+datePublished: '2016-11-18T16:08:02.598Z'
+dateModified: '2016-11-18T16:07:57.733Z'
 title: ''
 via: {}
 inFeed: true
