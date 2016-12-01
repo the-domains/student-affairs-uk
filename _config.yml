@@ -1,17 +1,19 @@
-typography_spectrum: 0.6324871738894963
+layout_spectrum: 0.2594812484504194
+typography_spectrum: 0.632670112003729
 color:
-  brandStrength: 0.6255088459463366
-  lightness: 0.9726048168097392
-  saturation: 0.4743721087438303
-  rhythmicContrast: 0.8014844084628812
+  brandStrength: 0.6296030971196729
+  lightness: 0.9767292191019041
+  saturation: 0.47912308723130953
+  rhythmicContrast: 0.8022551973539377
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+coverPrefs:
+  filter: false
 github: true
-layout_spectrum: 0.052350698863755506
 analytics:
   google: UA-86416819-1
 author:
@@ -33,8 +35,6 @@ navigation:
 favicon: null
 title: Student Affairs UK
 content: []
-coverPrefs:
-  filter: false
 description: My corner of the internet to talk all things student affairs
 purpose:
   - type: external
