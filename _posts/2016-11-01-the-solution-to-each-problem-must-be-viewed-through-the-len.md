@@ -16,8 +16,8 @@ keywords:
 title: >-
   "the solution to each problem must be viewed through the lens of that
   student’s experiences" 
-datePublished: '2016-11-18T16:08:11.756Z'
-dateModified: '2016-11-18T16:07:57.733Z'
+datePublished: '2017-01-11T14:33:18.946Z'
+dateModified: '2017-01-11T14:33:18.242Z'
 publisher:
   name: Medium
   domain: medium.com
@@ -34,6 +34,7 @@ via: {}
 sourcePath: >-
   _posts/2016-11-01-the-solution-to-each-problem-must-be-viewed-through-the-len.md
 starred: false
+datePublishedOriginal: '2016-11-18T16:08:11.756Z'
 _type: Article
 _context: 'http://schema.org'
 
