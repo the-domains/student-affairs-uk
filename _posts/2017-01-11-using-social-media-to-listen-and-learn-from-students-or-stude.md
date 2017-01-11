@@ -18,11 +18,7 @@ keywords:
   - used
   - engagement
   - digital
-description: >-
-  It's been almost 2 years since I wrote a post on Using Social Media to Listen
-  and Learn about UK Higher Education. In that post, I shared how I was able to
-  quickly increase my knowledge of UK higher education and expand my network
-  within the sector.
+description: An excellent post by Eric Stoller about using social media as a listening tool
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
@@ -30,8 +26,8 @@ isBasedOnUrl: >-
 title: >-
   Using Social Media to Listen and Learn from Students | Student Affairs and
   Technology
-datePublished: '2017-01-11T14:31:39.384Z'
-dateModified: '2017-01-11T14:31:38.920Z'
+datePublished: '2017-01-11T14:32:53.105Z'
+dateModified: '2017-01-11T14:32:52.769Z'
 via: {}
 inFeed: true
 sourcePath: >-
@@ -42,4 +38,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/798f852b6134144ec4ffc97b5406570872a12ff3.jpg" /><h1>Using Social Media to Listen and Learn from Students | Student Affairs and Technology</h1><p>It's been almost 2 years since I wrote a post on Using Social Media to Listen and Learn about UK Higher Education. In that post, I shared how I was able to quickly increase my knowledge of UK higher education and expand my network within the sector.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/798f852b6134144ec4ffc97b5406570872a12ff3.jpg" /><h1>Using Social Media to Listen and Learn from Students | Student Affairs and Technology</h1><p>An excellent post by Eric Stoller about using social media as a listening tool</p></article>
