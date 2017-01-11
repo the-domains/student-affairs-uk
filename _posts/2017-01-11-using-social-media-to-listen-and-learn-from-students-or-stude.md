@@ -26,8 +26,8 @@ isBasedOnUrl: >-
 title: >-
   Using Social Media to Listen and Learn from Students | Student Affairs and
   Technology
-datePublished: '2017-01-11T14:32:53.105Z'
-dateModified: '2017-01-11T14:32:52.769Z'
+datePublished: '2017-01-11T14:33:18.940Z'
+dateModified: '2017-01-11T14:33:18.242Z'
 via: {}
 inFeed: true
 sourcePath: >-
