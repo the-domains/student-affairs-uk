@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-18T16:08:12.490Z'
+datePublished: '2017-01-11T14:33:18.927Z'
 sourcePath: _posts/2016-10-28-emotional-intelligence-in-leadership-and-social-justice.md
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=JjVx-leEzAE'
@@ -20,7 +20,7 @@ author:
     url: 'http://higheredlive.com/'
     avatar: {}
 via: {}
-dateModified: '2016-11-18T16:07:57.733Z'
+dateModified: '2017-01-11T14:33:18.242Z'
 title: Emotional Intelligence in Leadership & Social Justice
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=JjVx-leEzAE&feature=applinks'
@@ -72,6 +72,7 @@ description: >-
   professional development for student affairs should address?
 inLanguage: en
 starred: false
+datePublishedOriginal: '2016-11-18T16:08:12.490Z'
 _context: 'http://schema.org'
 _type: VideoObject
 
