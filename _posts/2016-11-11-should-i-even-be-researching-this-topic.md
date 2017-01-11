@@ -1,18 +1,18 @@
 ---
-datePublished: '2017-01-11T14:02:01.146Z'
+datePublished: '2017-01-11T14:02:12.299Z'
 sourcePath: _posts/2016-11-11-should-i-even-be-researching-this-topic.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-01-11T14:02:00.571Z'
+dateModified: '2017-01-11T14:02:12.144Z'
 title: Is empathy enough ?
 publisher: {}
 description: >-
   Over the past year I have embarked on masters in researching higher education
   and now it comes to the time to think about what my final project will be.
+datePublishedOriginal: '2017-01-11T14:02:12.299Z'
 starred: true
-datePublishedOriginal: '2017-01-11T13:56:46.259Z'
 url: is-empathy-enough/index.html
 _type: Article
 
