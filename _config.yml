@@ -65,6 +65,3 @@ purpose:
   - type: external
     url: 'https://goo.gl/AXGerg'
     label: Tweet me
-  - type: email
-    label: Contact me
-    url: 'mailto:jonathan.a.dempsey@gmail.com'
