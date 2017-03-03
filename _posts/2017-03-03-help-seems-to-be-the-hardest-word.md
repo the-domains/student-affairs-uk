@@ -2,19 +2,19 @@
 inFeed: true
 description: >-
   Over my career I have probably sat down with hundreds, if not thousands of
-  students offering support and guidance whilst at uni.  Often they get to me
+  students offering support and guidance whilst at uni. Often they get to me
   because they’ve struggled on, never really asking for help and now it’s just
   gotten too much. 
-dateModified: '2017-03-03T11:15:32.293Z'
-datePublished: '2017-03-03T11:15:32.828Z'
+dateModified: '2017-03-03T11:24:23.156Z'
+datePublished: '2017-03-03T11:24:23.720Z'
 title: Help seems to be the hardest word
 author: []
 publisher: {}
 via: {}
 isBasedOnUrl: 'http://i.giphy.com/KoS2sCcK8l8Z2.gif'
+sourcePath: _posts/2017-03-03-help-seems-to-be-the-hardest-word.md
 starred: false
 datePublishedOriginal: '2017-03-03T11:15:32.828Z'
-sourcePath: _posts/2017-03-03-help-seems-to-be-the-hardest-word.md
 _type: MediaObject
 
 ---
@@ -34,10 +34,20 @@ Now, does this sound familiar to any one
 
 **Friend**: "How are you?"
 
-**Me**: "Fine thanks, how are you?" _\*\*\*secretly wishing inside I said at, the very least, "I'm meh!"\*\*\*_
+**Me**: "Fine thanks, how are you?" _\*\*\*secretly wishing inside I said at, the very least, "I'm ... meh!"\*\*\*_
 
 **Friend**: "I'm okay"
 
 **Me**: "Are you sure?"
 
-Cue several hours of talking and and listening and maybe an ugly cry or two
+_Cue several hours of talking and and listening and maybe an ugly cry or two_
+
+There seems to be something holding us back from saying "no, I'm not okay". We go in to the autopilot of saying "I'm fine" and deflect to trying to help others.
+
+Why do we do this? As the helpers and supporters do we see it as being a weakness that we shouldn't need help? That we can't be very good at what we do if we have to ask for help.   
+Maybe it is, or any other 100 reasons but we (students and staff) need to try and stop sometimes and say "I'm not okay" because that's okay.  
+I'm going to try ,and I know I will fail a lot at trying to be truthful when a friend asks how things are. I just have to build up the courage to be honest.
+
+Now for my students I need to let them know that it's fine to need help, no matter who you are or what you're studying. It's not a weakness but shows that you are human. And for my students, in the courses they are studying and the professions they are training to become, being human is your biggest strength.
+
+JD
