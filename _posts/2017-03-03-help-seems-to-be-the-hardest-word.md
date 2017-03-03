@@ -2,11 +2,11 @@
 inFeed: true
 description: >-
   Over my career I have probably sat down with hundreds, if not thousands of
-  students offering support and guidance whilst at uni.  Often they get to me
+  students offering support and guidance whilst at uni. Often they get to me
   because they’ve struggled on, never really asking for help and now it’s just
   gotten too much.
-dateModified: '2017-03-03T11:26:32.885Z'
-datePublished: '2017-03-03T11:26:33.428Z'
+dateModified: '2017-03-03T11:27:33.150Z'
+datePublished: '2017-03-03T11:27:33.516Z'
 title: Help seems to be the hardest word
 author: []
 publisher: {}
