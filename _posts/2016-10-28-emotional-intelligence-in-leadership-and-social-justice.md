@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-03T11:27:33.516Z'
+datePublished: '2017-03-03T11:28:20.055Z'
 sourcePath: _posts/2016-10-28-emotional-intelligence-in-leadership-and-social-justice.md
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=JjVx-leEzAE'
@@ -20,7 +20,7 @@ author:
     url: 'http://higheredlive.com/'
     avatar: {}
 via: {}
-dateModified: '2017-03-03T11:27:33.150Z'
+dateModified: '2017-03-03T11:28:19.726Z'
 title: Emotional Intelligence in Leadership & Social Justice
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=JjVx-leEzAE&feature=applinks'
