@@ -1,28 +1,35 @@
+name: Student Affairs UK
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/79153781-311d-4517-bbf0-633bdaff3c7b.png
 layout_spectrum: 0.2594812484504194
 typography_spectrum: 0.632670112003729
+analytics:
+  google: UA-86416819-1
+opengraph:
+  type: ''
+  appId: ''
 color:
-  brandStrength: 0.6296030971196729
-  lightness: 0.9767292191019041
-  saturation: 0.47912308723130953
-  rhythmicContrast: 0.8022551973539377
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-coverPrefs:
-  filter: false
-github: true
-analytics:
-  google: UA-86416819-1
+  brandStrength: 0.6296030971196729
+  lightness: 0.9767292191019041
+  saturation: 0.47912308723130953
+  rhythmicContrast: 0.8022551973539377
+purpose:
+  - type: external
+    label: Tweet me
+    url: 'https://goo.gl/AXGerg'
+title: Student Affairs UK
+description: My corner of the internet to talk all things student affairs
 author:
   name: Jonathan Dempsey
   email: jonathan.a.dempsey@gmail.com
-  url: about-me-jd
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/79153781-311d-4517-bbf0-633bdaff3c7b.png
-name: Student Affairs UK
+content_rating:
+  adult: false
 navigation:
   - name: Home
     url: 'http://studentaffairs.co.uk/'
@@ -33,8 +40,6 @@ navigation:
   - name: 'About me, JD'
     id: dbab1904-ffac-446b-bf7b-dac1fc591bb7
     type: content
-favicon: null
-title: Student Affairs UK
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -44,24 +49,17 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/a829eb33-8292-4639-8c36-2095ba24a80b.png
     metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
       '@type': MediaObject
-      datePublished: null
+      '@context': 'http://schema.org'
+      keywords: []
+      publisher:
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
+      description: ''
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: My corner of the internet to talk all things student affairs
-purpose:
-  - type: external
-    url: 'https://goo.gl/AXGerg'
-    label: Tweet me
+github: true
