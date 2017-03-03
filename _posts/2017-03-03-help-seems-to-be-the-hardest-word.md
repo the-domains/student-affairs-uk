@@ -1,12 +1,11 @@
 ---
 inFeed: true
 description: >-
-  Over my career I have probably sat down with hundreds, if not thousands of
-  students offering support and guidance whilst at uni. Often they get to me
-  because they’ve struggled on, never really asking for help and now it’s just
-  gotten too much.
-dateModified: '2017-03-03T11:28:19.726Z'
-datePublished: '2017-03-03T11:28:20.151Z'
+  Over my career I have probably sat down with hundreds of students offering
+  support and guidance whilst at uni.  Often they get to me because they’ve
+  struggled on, never really asking for help and now it’s just gotten too much.
+dateModified: '2017-03-03T16:13:43.239Z'
+datePublished: '2017-03-03T16:13:43.676Z'
 title: Help seems to be the hardest word
 author: []
 publisher: {}
@@ -22,7 +21,7 @@ _type: Article
 # Help seems to be the hardest word
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/654d4cd7-66ee-4193-9624-6305f004b8ac.gif)
 
-Over my career I have probably sat down with hundreds, if not thousands of students offering support and guidance whilst at uni.   
+Over my career I have probably sat down with hundreds of students offering support and guidance whilst at uni.   
 Often they get to me because they've struggled on, never really asking for help and now it's just gotten too much.
 
 ---
