@@ -2,29 +2,32 @@
 inFeed: true
 description: >-
   Over my career I have probably sat down with hundreds, if not thousands of
-  students offering support and guidance whilst at uni. Often they get to me
+  students offering support and guidance whilst at uni.  Often they get to me
   because they’ve struggled on, never really asking for help and now it’s just
-  gotten too much. 
-dateModified: '2017-03-03T11:24:58.936Z'
-datePublished: '2017-03-03T11:24:59.295Z'
+  gotten too much.
+dateModified: '2017-03-03T11:26:32.885Z'
+datePublished: '2017-03-03T11:26:33.428Z'
 title: Help seems to be the hardest word
 author: []
 publisher: {}
 via: {}
-isBasedOnUrl: 'http://i.giphy.com/KoS2sCcK8l8Z2.gif'
 sourcePath: _posts/2017-03-03-help-seems-to-be-the-hardest-word.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-03-03T11:15:32.828Z'
-_type: MediaObject
+url: help-seems-to-be-the-hardest-word/index.html
+_type: Article
 
 ---
 # Help seems to be the hardest word
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/654d4cd7-66ee-4193-9624-6305f004b8ac.gif)
 
 Over my career I have probably sat down with hundreds, if not thousands of students offering support and guidance whilst at uni.   
-Often they get to me because they've struggled on, never really asking for help and now it's just gotten too much. 
+Often they get to me because they've struggled on, never really asking for help and now it's just gotten too much.
 
-I've noticed something about a fair few of these students.They are really nice people, super helpful and seem, themselves great listeners. 
+---
+
+I've noticed something about a fair few of these students.They are really nice people, super helpful and seem, themselves great listeners.
 
 _Currently I support students training to be nurses, midwives, paramedics, social workers, teachers etc... They are going in to professions that need a person to be caring, empathetic and supportive. They are the type of people who will be there when you need them, ready to lend an ear or shoulder - pretty much they make amazing friends._
 
