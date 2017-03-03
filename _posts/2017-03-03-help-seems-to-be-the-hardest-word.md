@@ -5,8 +5,8 @@ description: >-
   students offering support and guidance whilst at uni. Often they get to me
   because they’ve struggled on, never really asking for help and now it’s just
   gotten too much. 
-dateModified: '2017-03-03T11:24:23.156Z'
-datePublished: '2017-03-03T11:24:23.720Z'
+dateModified: '2017-03-03T11:24:58.936Z'
+datePublished: '2017-03-03T11:24:59.295Z'
 title: Help seems to be the hardest word
 author: []
 publisher: {}
