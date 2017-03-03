@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-18T16:08:09.045Z'
+datePublished: '2017-03-03T11:24:59.288Z'
 sourcePath: _posts/2016-09-06-master-procrastinator.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-18T16:07:57.733Z'
+dateModified: '2017-03-03T11:24:58.936Z'
 title: The Master Procrastinator
 publisher: {}
 description: >-
@@ -15,6 +15,7 @@ description: >-
   number of students in need. There is a lot of pressure these days to succeed
   whilst under pressures of money, home, life etc… 
 starred: false
+datePublishedOriginal: '2016-11-18T16:08:09.045Z'
 url: the-master-procrastinator/index.html
 _type: Article
 
