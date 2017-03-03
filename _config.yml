@@ -20,7 +20,8 @@ author:
   name: Jonathan Dempsey
   email: jonathan.a.dempsey@gmail.com
   url: about-me-jd
-logo: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/79153781-311d-4517-bbf0-633bdaff3c7b.png
 name: Student Affairs UK
 navigation:
   - name: Home
@@ -52,7 +53,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
