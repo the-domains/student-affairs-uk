@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-06T15:25:18.797Z'
+datePublished: '2017-03-06T15:28:55.454Z'
 sourcePath: _posts/2016-09-06-master-procrastinator.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-06T15:25:18.388Z'
+dateModified: '2017-03-06T15:28:54.643Z'
 title: The Master Procrastinator
 publisher: {}
 description: >-
