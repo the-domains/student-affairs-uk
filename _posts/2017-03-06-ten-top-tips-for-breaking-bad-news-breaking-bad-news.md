@@ -20,8 +20,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.breakingbadnews.org/ten-top-tips-for-breaking-bad-news/'
 title: Ten top tips for breaking bad news " breaking bad news
-datePublished: '2017-03-06T15:24:18.737Z'
-dateModified: '2017-03-06T15:24:18.120Z'
+datePublished: '2017-03-06T15:25:18.754Z'
+dateModified: '2017-03-06T15:25:18.388Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-06-ten-top-tips-for-breaking-bad-news-breaking-bad-news.md
