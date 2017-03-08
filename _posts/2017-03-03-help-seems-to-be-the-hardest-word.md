@@ -1,19 +1,19 @@
 ---
+title: Help seems to be the hardest word
+datePublished: '2017-03-08T15:46:41.967Z'
+dateModified: '2017-03-08T15:45:48.708Z'
+publisher: {}
+author: []
 inFeed: true
+hasPage: true
 description: >-
   Over my career I have probably sat down with hundreds of students offering
-  support and guidance whilst at uni.  Often they get to me because they’ve
+  support and guidance whilst at uni. Often they get to me because they’ve
   struggled on, never really asking for help and now it’s just gotten too much.
-dateModified: '2017-03-03T16:13:43.239Z'
-datePublished: '2017-03-03T16:13:43.676Z'
-title: Help seems to be the hardest word
-author: []
-publisher: {}
 via: {}
-sourcePath: _posts/2017-03-03-help-seems-to-be-the-hardest-word.md
-hasPage: true
-starred: false
+starred: true
 datePublishedOriginal: '2017-03-03T11:15:32.828Z'
+sourcePath: _posts/2017-03-03-help-seems-to-be-the-hardest-word.md
 url: help-seems-to-be-the-hardest-word/index.html
 _type: Article
 
