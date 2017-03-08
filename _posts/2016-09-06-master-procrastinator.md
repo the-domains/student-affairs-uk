@@ -1,21 +1,21 @@
 ---
-datePublished: '2017-03-06T15:28:55.454Z'
-sourcePath: _posts/2016-09-06-master-procrastinator.md
+title: The Master Procrastinator
+datePublished: '2017-03-08T15:48:00.808Z'
+dateModified: '2017-03-08T15:47:58.096Z'
+publisher: {}
+author: []
 inFeed: true
 hasPage: true
-author: []
-via: {}
-dateModified: '2017-03-06T15:28:54.643Z'
-title: The Master Procrastinator
-publisher: {}
 description: >-
   The new academic year is underway and many headlines about students are about
   their mental health and rightly so. Mental health in HE is severely
   under-funded and our resources probably not robust enough for the increasing
   number of students in need. There is a lot of pressure these days to succeed
-  whilst under pressures of money, home, life etc… 
+  whilst under pressures of money, home, life etc…
+via: {}
 starred: false
 datePublishedOriginal: '2016-11-18T16:08:09.045Z'
+sourcePath: _posts/2016-09-06-master-procrastinator.md
 url: the-master-procrastinator/index.html
 _type: Article
 
@@ -24,7 +24,7 @@ _type: Article
 
 # The Master Procrastinator
 
-The new academic year is underway and many headlines about students are about their mental health and rightly so. Mental health in HE is severely under-funded and our resources probably not robust enough for the increasing number of students in need. There is a lot of pressure these days to succeed whilst under pressures of money, home, life etc... 
+The new academic year is underway and many headlines about students are about their mental health and rightly so. Mental health in HE is severely under-funded and our resources probably not robust enough for the increasing number of students in need. There is a lot of pressure these days to succeed whilst under pressures of money, home, life etc...
 
 ---
 
