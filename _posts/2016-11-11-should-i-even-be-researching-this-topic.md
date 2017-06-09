@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-06T15:28:55.454Z'
+datePublished: '2017-06-09T11:34:09.113Z'
 sourcePath: _posts/2016-11-11-should-i-even-be-researching-this-topic.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-06T15:28:54.643Z'
+dateModified: '2017-06-09T11:34:08.648Z'
 title: Is empathy enough ?
 publisher: {}
 description: >-
