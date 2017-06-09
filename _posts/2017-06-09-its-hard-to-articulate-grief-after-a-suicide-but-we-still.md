@@ -16,11 +16,7 @@ keywords:
   - education
   - university administration
   - academics
-description: >-
-  Last spring, I interviewed successfully for what I can only describe as my
-  dream job. For the first time, six years after finishing my PhD, I could see a
-  clear future in academia. Two months before I was due to start, my sister
-  ended her life.
+description: Support is important not only for our students but also our colleagues!
 app_links:
   - url: >-
       gnmguardian://higher-education-network/2017/jun/09/its-hard-to-articulate-grief-after-a-suicide-but-we-still-need-support?contenttype=Article&source=applinks
@@ -54,15 +50,19 @@ app_links:
 isBasedOnUrl: >-
   https://www.theguardian.com/higher-education-network/2017/jun/09/its-hard-to-articulate-grief-after-a-suicide-but-we-still-need-support
 title: It's hard to articulate grief after a suicide - but we still need support
-datePublished: '2017-06-09T11:32:39.791Z'
-dateModified: '2017-06-09T11:31:31.591Z'
-datePublishedOriginal: '2017-06-09T11:32:39.791Z'
+datePublished: '2017-06-09T11:33:26.442Z'
+dateModified: '2017-06-09T11:33:25.841Z'
 via: {}
 inFeed: true
 starred: false
+datePublishedOriginal: '2017-06-09T11:33:25.276Z'
 sourcePath: _posts/2017-06-09-its-hard-to-articulate-grief-after-a-suicide-but-we-still.md
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>It's hard to articulate grief after a suicide - but we still need support</h1><p>Last spring, I interviewed successfully for what I can only describe as my dream job. For the first time, six years after finishing my PhD, I could see a clear future in academia. Two months before I was due to start, my sister ended her life.</p><img src="https://i.guim.co.uk/img/media/d5e714e67b31b5037b19a7752435835c0c1eef9a/0_168_7305_4383/master/7305.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=93265501f033fee0bbb9da5a1a3d205c" /></article>
+<article style=""><img src="https://i.guim.co.uk/img/media/d5e714e67b31b5037b19a7752435835c0c1eef9a/0_168_7305_4383/master/7305.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=93265501f033fee0bbb9da5a1a3d205c" /><h1>It's hard to articulate grief after a suicide - but we still need support</h1><p>All staff should have opportunities to disclose personal concerns to a mentor or someone who isn’t responsible for managing their performance.</p></article>
+
+Support is important not only for our students but also our colleagues!
+
+JD
