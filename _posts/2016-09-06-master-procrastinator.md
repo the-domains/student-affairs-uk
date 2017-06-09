@@ -1,7 +1,7 @@
 ---
 title: The Master Procrastinator
-datePublished: '2017-03-08T15:48:00.808Z'
-dateModified: '2017-03-08T15:47:58.096Z'
+datePublished: '2017-06-09T11:34:09.129Z'
+dateModified: '2017-06-09T11:34:08.648Z'
 publisher: {}
 author: []
 inFeed: true
@@ -13,9 +13,9 @@ description: >-
   number of students in need. There is a lot of pressure these days to succeed
   whilst under pressures of money, home, life etc…
 via: {}
+sourcePath: _posts/2016-09-06-master-procrastinator.md
 starred: false
 datePublishedOriginal: '2016-11-18T16:08:09.045Z'
-sourcePath: _posts/2016-09-06-master-procrastinator.md
 url: the-master-procrastinator/index.html
 _type: Article
 
