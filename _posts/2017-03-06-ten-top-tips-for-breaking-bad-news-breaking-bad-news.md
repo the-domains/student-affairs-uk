@@ -13,8 +13,8 @@ keywords:
   - distressing
   - going
 title: Ten top tips for breaking bad news
-datePublished: '2017-03-08T15:46:08.879Z'
-dateModified: '2017-03-08T15:46:06.945Z'
+datePublished: '2017-06-09T11:34:09.101Z'
+dateModified: '2017-06-09T11:34:08.648Z'
 publisher: {}
 author: []
 inFeed: true
@@ -22,9 +22,9 @@ description: >-
   Although aimed at supporting those with end of life care, these tips can be
   useful for anyone breaking bad news.
 via: {}
+sourcePath: _posts/2017-03-06-ten-top-tips-for-breaking-bad-news-breaking-bad-news.md
 starred: false
 datePublishedOriginal: '2017-03-06T15:24:17.757Z'
-sourcePath: _posts/2017-03-06-ten-top-tips-for-breaking-bad-news-breaking-bad-news.md
 _type: MediaObject
 _context: 'http://schema.org'
 
