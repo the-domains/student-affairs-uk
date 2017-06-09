@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-06T15:28:55.465Z'
+datePublished: '2017-06-09T11:34:09.092Z'
 sourcePath: >-
   _posts/2016-10-27-improving-student-mental-health-recognition-must-lead-to-r.md
 inFeed: true
@@ -33,7 +33,7 @@ author:
     url: null
     avatar: {}
 via: {}
-dateModified: '2017-03-06T15:28:54.643Z'
+dateModified: '2017-06-09T11:34:08.648Z'
 title: >-
   Improving student mental health - recognition must lead to real action |
   Wonkhe | Policy Watch
