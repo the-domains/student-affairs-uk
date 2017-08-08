@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-07-07T10:58:36.092Z'
+datePublished: '2017-08-08T08:46:40.839Z'
 sourcePath: _posts/2016-09-02-hello-world.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-07-07T10:58:35.442Z'
+dateModified: '2017-08-08T08:46:40.274Z'
 title: 'Hello, world'
 publisher: {}
 description: 'Hello, I’m JD and welcome to my blog about all things Student Affairs in HE.'
