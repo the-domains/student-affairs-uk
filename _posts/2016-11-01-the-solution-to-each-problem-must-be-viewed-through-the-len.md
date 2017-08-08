@@ -16,8 +16,8 @@ keywords:
 title: >-
   "the solution to each problem must be viewed through the lens of that
   student’s experiences" 
-datePublished: '2017-06-09T11:34:09.106Z'
-dateModified: '2017-06-09T11:34:08.648Z'
+datePublished: '2017-08-08T08:46:40.838Z'
+dateModified: '2017-08-08T08:46:40.274Z'
 publisher:
   name: Medium
   domain: medium.com
