@@ -30,23 +30,19 @@ publisher:
   domain: wonkhe.com
 keywords:
   - comment students
-description: >-
-  When I mention to colleagues - including those who have worked in higher
-  education for many years - that, in my last role, my team and I were
-  responsible for coordinating the university's response to a student death, the
-  look I get back is often one of surprise. Students die?
+description: A thoughtful piece of what happens when a student dies.
 app_links: []
 isBasedOnUrl: 'http://wonkhe.com/blogs/who-does-what-when-a-student-dies/'
 title: Who does what when a student dies? | Wonkhe | Comment
-datePublished: '2017-08-22T11:17:11.501Z'
-dateModified: '2017-08-22T11:16:54.977Z'
-datePublishedOriginal: '2017-08-22T11:17:11.501Z'
+datePublished: '2017-08-22T11:19:27.670Z'
+dateModified: '2017-08-22T11:19:27.129Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-08-22-who-does-what-when-a-student-dies-or-wonkhe-or-comment.md
+starred: false
+datePublishedOriginal: '2017-08-22T11:17:11.501Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Who does what when a student dies? | Wonkhe | Comment</h1><p>When I mention to colleagues - including those who have worked in higher education for many years - that, in my last role, my team and I were responsible for coordinating the university's response to a student death, the look I get back is often one of surprise. Students die?</p><img src="http://wonkhe.com/wp-content/uploads/2017/08/wonkhe-student-death-1291225_1920.jpg" /></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/df5f591656ad2786c164a5956292d9ad/noop.jpg?input=http%3A%2F%2Fwonkhe.com%2Fwp-content%2Fuploads%2F2017%2F08%2Fwonkhe-student-death-1291225_1920.jpg" /><h1>Who does what when a student dies? | Wonkhe | Comment</h1><p>A thoughtful piece of what happens when a student dies.</p></article>
