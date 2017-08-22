@@ -19,8 +19,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://www.changesu.org/?p=1267'
 title: 'Opinion: Time to abandon ''resilience'' as a concept?'
-datePublished: '2017-08-22T11:19:38.673Z'
-dateModified: '2017-08-22T11:19:38.037Z'
+datePublished: '2017-08-22T11:32:05.813Z'
+dateModified: '2017-08-22T11:32:05.262Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-08-08-opinion-time-to-abandon-resilience-as-a-concept.md
