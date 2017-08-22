@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-08-22T11:19:38.699Z'
+datePublished: '2017-08-22T11:21:57.808Z'
 sourcePath: _posts/2016-09-02-hello-world.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-08-22T11:19:38.037Z'
+dateModified: '2017-08-22T11:21:57.133Z'
 title: 'Hello, world'
 publisher: {}
 description: 'Hello, I’m JD and welcome to my blog about all things Student Affairs in HE.'
@@ -24,11 +24,10 @@ This is my corner of the internet to put down my thoughts and opinions on studen
 
 ---
 
-Much of what I post will be my own thoughts and opinions but where I can I will add references to journals, articles and so on to back up my ideas (I'm such a good [student][0]!). I'll also be posting links to articles, videos, podcasts etc... that I think are quite interesting, add to any of my posts or link to student affairs.  
-Also it's a new site it will no doubt change in look and feel over the next few months so consider it a beta with new features added as I go along, but for now thanks for coming over to my corner of the internet and if you have any questions or comments (comments section will be coming soon-_ish_) then feel free to [tweet me][1] or send me an email (jonathan.a.dempsey@gmail.com)
+Much of what I post will be my own thoughts and opinions but I'll also be posting links to articles, videos, podcasts etc... that I think are quite interesting, add to any of my posts or link to student affairs.  
+Also it's a new site it will no doubt change in look and feel over the next few months so consider it a beta with new features added as I go along, but for now thanks for coming over to my corner of the internet and if you have any questions or comments (comments section will be coming soon-_ish_) then feel free to [tweet me][0].
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aeffd628-31fd-4589-833b-a88c13878fc5.png)
 
 JD
 
-[0]: http://studentaffairs.co.uk/about-me-jd "About me, JD"
-[1]: https://goo.gl/AXGerg "Tweet me @JD_in_HE"
+[0]: https://goo.gl/AXGerg "Tweet me @JD_in_HE"
