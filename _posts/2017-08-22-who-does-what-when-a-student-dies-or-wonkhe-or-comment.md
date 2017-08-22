@@ -34,8 +34,8 @@ description: A thoughtful piece of what happens when a student dies.
 app_links: []
 isBasedOnUrl: 'http://wonkhe.com/blogs/who-does-what-when-a-student-dies/'
 title: Who does what when a student dies? | Wonkhe | Comment
-datePublished: '2017-08-22T11:19:38.695Z'
-dateModified: '2017-08-22T11:19:38.037Z'
+datePublished: '2017-08-22T11:32:05.846Z'
+dateModified: '2017-08-22T11:32:05.262Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-08-22-who-does-what-when-a-student-dies-or-wonkhe-or-comment.md
