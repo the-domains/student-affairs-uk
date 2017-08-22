@@ -52,8 +52,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/heads_together/status/899954422578651137'
-datePublished: '2017-08-22T11:44:51.827Z'
-dateModified: '2017-08-22T11:44:51.719Z'
+datePublished: '2017-08-22T11:47:19.311Z'
+dateModified: '2017-08-22T11:47:19.036Z'
 title: ''
 via: {}
 inFeed: true
