@@ -42,8 +42,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/JD_in_HE/status/859732697018769413'
-datePublished: '2017-08-08T08:46:40.835Z'
-dateModified: '2017-08-08T08:46:40.274Z'
+datePublished: '2017-08-22T11:19:38.631Z'
+dateModified: '2017-08-22T11:19:38.037Z'
 title: ''
 via: {}
 inFeed: true
