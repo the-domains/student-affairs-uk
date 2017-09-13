@@ -15,13 +15,13 @@ app_links: []
 isBasedOnUrl: >-
   https://www.protect-ed.org/single-post/2017/09/13/Student-Blogs-My-perspective-on-university-mental-health-services
 title: ProtectED Code of Practice
-datePublished: '2017-09-13T08:25:45.946Z'
-dateModified: '2017-09-13T08:25:34.708Z'
-datePublishedOriginal: '2017-09-13T08:25:45.946Z'
+datePublished: '2017-09-13T08:26:25.544Z'
+dateModified: '2017-09-13T08:26:23.960Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-09-13-protected-code-of-practice.md
+starred: false
+datePublishedOriginal: '2017-09-13T08:25:45.946Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
