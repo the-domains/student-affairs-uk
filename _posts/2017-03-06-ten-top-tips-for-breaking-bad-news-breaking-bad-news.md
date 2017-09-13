@@ -13,8 +13,8 @@ keywords:
   - distressing
   - going
 title: Ten top tips for breaking bad news
-datePublished: '2017-08-22T11:32:05.762Z'
-dateModified: '2017-08-22T11:32:05.262Z'
+datePublished: '2017-09-13T08:26:25.541Z'
+dateModified: '2017-09-13T08:26:23.960Z'
 publisher: {}
 author: []
 inFeed: true
