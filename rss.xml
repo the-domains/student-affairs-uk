@@ -4,9 +4,16 @@
         <description><![CDATA[Student Affairs UK]]></description>
         <link>http://studentaffairs.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Sep 2017 08:25:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2017 08:26:43 GMT</lastBuildDate>
         <atom:link href="http://studentaffairs.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 13 Sep 2017 08:25:46 GMT</pubDate>
+        <pubDate>Wed, 13 Sep 2017 08:26:36 GMT</pubDate>
+        <item>
+            <title><![CDATA[ProtectED Code of Practice]]></title>
+            <description><![CDATA[<article><h1>ProtectED Code of Practice</h1><p>ProtectED is the &apos;gold standard&apos; for assessing the work done by universities to ensure their students&apos; safety, security and wellbeing.</p></article>]]></description>
+            <link>https://www.protect-ed.org/single-post/2017/09/13/Student-Blogs-My-perspective-on-university-mental-health-services</link>
+            <guid isPermaLink="false">05da12e3-ca2d-4a54-b0d7-a732a38369c5</guid>
+            <pubDate>Wed, 13 Sep 2017 08:25:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>Continuing our focus on student mental health, here are some great words of wisdom from a @YoungMindsUK activist this #CharityTuesday</blockquote>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/069c13d5-d3d3-4e51-b506-f177703e5286.jpg">]]></description>
@@ -69,13 +76,6 @@
             <link>http://studentaffairs.co.uk/is-empathy-enough/index.html</link>
             <guid isPermaLink="false">8e2881c8-746a-4f06-a9cd-956d5d97376e</guid>
             <pubDate>Wed, 11 Jan 2017 13:56:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Master Procrastinator]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f70e5e8b-d37f-4e33-a92b-71f0c29170fa.gif">,<h1>The Master Procrastinator</h1>,<p>The new academic year is underway and many headlines about students are about their mental health and rightly so. Mental health in HE is severely under-funded and our resources probably not robust enough for the increasing number of students in need. There is a lot of pressure these days to succeed whilst under pressures of money, home, life etc…</p>]]></description>
-            <link>http://studentaffairs.co.uk/the-master-procrastinator/index.html</link>
-            <guid isPermaLink="false">99867fdc-d4ad-492a-a79f-0806c7c13a6d</guid>
-            <pubDate>Fri, 18 Nov 2016 16:08:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
