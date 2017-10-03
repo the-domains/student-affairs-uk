@@ -1,7 +1,7 @@
 ---
 title: Help seems to be the hardest word
-datePublished: '2017-09-13T08:26:25.485Z'
-dateModified: '2017-09-13T08:26:23.960Z'
+datePublished: '2017-10-03T11:17:11.232Z'
+dateModified: '2017-10-03T11:17:09.849Z'
 publisher: {}
 author: []
 inFeed: true
