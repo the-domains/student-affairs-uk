@@ -4,9 +4,16 @@
         <description><![CDATA[Student Affairs UK]]></description>
         <link>http://studentaffairs.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Oct 2017 11:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2017 11:17:40 GMT</lastBuildDate>
         <atom:link href="http://studentaffairs.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Oct 2017 11:17:05 GMT</pubDate>
+        <pubDate>Tue, 03 Oct 2017 11:17:23 GMT</pubDate>
+        <item>
+            <title><![CDATA[Understanding unconscious bias]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FdVp9Z5k0dEE%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdVp9Z5k0dEE&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FdVp9Z5k0dEE%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?time_continue=33&amp;v=dVp9Z5k0dEE</link>
+            <guid isPermaLink="false">f8deed50-b754-43a2-a895-2480b6aab5c3</guid>
+            <pubDate>Tue, 03 Oct 2017 11:15:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Student Blogs: My perspective on university mental health services]]></title>
             <description><![CDATA[<article><h1>Student Blogs: My perspective on university mental health services</h1><p>A student&apos;s perspective on mental health services at university</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.breakingbadnews.org/ten-top-tips-for-breaking-bad-news/</link>
             <guid isPermaLink="false">826ce92b-7eba-496a-b545-40e6617f6a7f</guid>
             <pubDate>Mon, 06 Mar 2017 15:24:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is empathy enough ?]]></title>
-            <description><![CDATA[<h1>Is empathy enough ?</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/46e391b2-23b3-4cf8-978c-26f522f39629.gif">,<p>Over the past year I have embarked on masters in researching higher education and now it comes to the time to think about what my final project will be.</p>]]></description>
-            <link>http://studentaffairs.co.uk/is-empathy-enough/index.html</link>
-            <guid isPermaLink="false">8e2881c8-746a-4f06-a9cd-956d5d97376e</guid>
-            <pubDate>Wed, 11 Jan 2017 13:56:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
