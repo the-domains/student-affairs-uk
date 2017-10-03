@@ -50,8 +50,8 @@ app_links:
 isBasedOnUrl: >-
   https://www.theguardian.com/higher-education-network/2017/jun/09/its-hard-to-articulate-grief-after-a-suicide-but-we-still-need-support
 title: It's hard to articulate grief after a suicide - but we still need support
-datePublished: '2017-09-13T08:26:25.289Z'
-dateModified: '2017-09-13T08:26:23.960Z'
+datePublished: '2017-10-03T11:17:11.215Z'
+dateModified: '2017-10-03T11:17:09.849Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-06-09-its-hard-to-articulate-grief-after-a-suicide-but-we-still.md
