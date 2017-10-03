@@ -13,8 +13,8 @@ app_links: []
 isBasedOnUrl: >-
   https://www.protect-ed.org/single-post/2017/09/13/Student-Blogs-My-perspective-on-university-mental-health-services
 title: 'Student Blogs: My perspective on university mental health services'
-datePublished: '2017-09-13T08:28:20.013Z'
-dateModified: '2017-09-13T08:28:19.468Z'
+datePublished: '2017-10-03T11:17:11.223Z'
+dateModified: '2017-10-03T11:17:09.849Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-09-13-protected-code-of-practice.md
