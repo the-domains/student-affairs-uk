@@ -21,12 +21,7 @@ keywords:
   - conscious mind
   - rational thinking
   - unde...
-description: >-
-  This animation introduces the key concepts of unconscious bias. It forms part
-  of the Royal Society's efforts to ensure that all those who serve on Royal
-  Society selection and appointment panels are aware of differences in how
-  candidates may present themselves, how to recognise bias in yourself and
-  others, how to recognise inappropriate advocacy or unreasoned judgement.
+description: This animation introduces the key concepts of unconscious bias.
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=dVp9Z5k0dEE&feature=applinks'
     type: ios
@@ -66,13 +61,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?time_continue=33&v=dVp9Z5k0dEE'
 title: Understanding unconscious bias
-datePublished: '2017-10-03T11:15:37.136Z'
-dateModified: '2017-10-03T11:15:31.298Z'
-datePublishedOriginal: '2017-10-03T11:15:37.136Z'
+datePublished: '2017-10-03T11:17:04.369Z'
+dateModified: '2017-10-03T11:17:03.770Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-10-03-understanding-unconscious-bias.md
+starred: false
+datePublishedOriginal: '2017-10-03T11:15:37.136Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
