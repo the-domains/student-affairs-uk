@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?time_continue=33&v=dVp9Z5k0dEE'
 title: Understanding unconscious bias
-datePublished: '2017-10-03T11:17:04.369Z'
-dateModified: '2017-10-03T11:17:03.770Z'
+datePublished: '2017-10-03T11:17:11.206Z'
+dateModified: '2017-10-03T11:17:09.849Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-10-03-understanding-unconscious-bias.md
